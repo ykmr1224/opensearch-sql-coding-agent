@@ -1,0 +1,19 @@
+# Feature-specific investigation documents
+# These are temporary development files that should not be committed
+memory-bank/features/*.md
+
+# Keep the README file (contains template)
+!memory-bank/features/README.md
+
+# Temporal notes - temporary development files
+memory-bank/temporal/*.md
+!memory-bank/temporal/README.md
+
+# Temporary development notes and drafts
+*.draft.md
+*.temp.md
+*.wip.md
+
+# Personal development notes
+personal-notes/
+dev-scratch/
